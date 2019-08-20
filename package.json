@@ -9,6 +9,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css-reset-and-normalize": "^1.0.1"
   }
 }
